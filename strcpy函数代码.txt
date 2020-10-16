@@ -10,7 +10,7 @@ char* StrCpy(char* src) {
 }
 /**
 <<<<<<< HEAD
-local edit
+local edit1
 =======
 远程edit
 >>>>>>> caa2c98d30e9200e4cbf2a8e02451864a58c2ad3

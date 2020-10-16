@@ -9,5 +9,9 @@ char* StrCpy(char* src) {
 	return p;
 }
 /**
+<<<<<<< HEAD
 本地编辑
+=======
+远程edit
+>>>>>>> 78640407b81f1f1949057e8b4743ed58a1178efb
 **/

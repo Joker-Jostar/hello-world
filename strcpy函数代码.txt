@@ -8,3 +8,6 @@ char* StrCpy(char* src) {
 	p[length] = '\0';
 	return p;
 }
+/**
+本地编辑
+**/
